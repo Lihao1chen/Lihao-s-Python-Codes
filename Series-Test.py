@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct  3 22:15:27 2018
+Still working on it.
 
 @author: Lihao
 """
+
+#This program contains some functions that can determine whether a serie is conv or div.
 
 
 import sympy as sm
